@@ -1,0 +1,15 @@
+Problem 2
+//Chase Warner sketched 8/29/2017 this sketch is to demonstrate beautiful code// 
+void setup() {
+ //this line makes sure the rectangle only is created once//
+size(1920,1080); 
+rect(200,300,200,400); 
+//these two lines create a rectangle on a canvas//
+
+}
+
+Problem 3
+Colormode(HSB,300,100,100);
+//I have absolutely no idea why this doesn't work//  
+size(1920,1080);
+ 
